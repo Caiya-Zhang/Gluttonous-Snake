@@ -1,9 +1,11 @@
 /*
  * MyFileReader.java
  * 
- * Feb 23th, 2020
+ * Mar 12th, 2020
  * Author: Caiya Zhang
  */
+
+
 
 import java.io.*;
 
